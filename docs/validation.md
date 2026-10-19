@@ -1,4 +1,25 @@
-# v0.1.1 validation
+# v0.1.2 validation
+
+The entry now starts with audience value and the intended next action, then connects the core claim, page points, a real visual sample, authoring and rendered communication review. One working spec develops with those decisions. No new intake form, fixed number of directions or approval gate is required.
+
+## Focused request walkthrough, 2026-10-19
+
+These are author self-walkthroughs of synthetic requests against the actual entry and references. No deck was generated and no independent model or audience trial is claimed.
+
+| Request | Route and observed decision |
+| --- | --- |
+| A library brief names the director as the reader, working adults as underserved users, and approval of a six-week evening-hours trial as the next action. | State that framing without asking again. Form the deck claim and page points around the service gap, proposed hours, staffing and decision. Use actual representative content for the visual sample; do not invent achieved attendance gains. |
+| A source deck could serve either customers choosing a product or engineers evaluating its implementation; the intended reader is absent. | Ask one focused audience question because it changes the argument; inspect the source independently in the meantime. No full intake questionnaire. |
+| Introduce a prototype to financial investors to gain interest, with a preference for short Chinese topic titles. | Lead with opportunity, value, approach and participation rationale. A four-character title is conditional on preference and meaning; no automatic financing ask, validation-checklist pitch or disclaimer panel. |
+| Technical due diligence requests validation conditions and a financing proposal requests an authorized amount and use of funds. | Preserve the evidence and financing details required by those different purposes. Introductory-investor guidance does not prohibit them. |
+| Create a deck with a specified native template and a valid representative sample. | Reuse the actual template/sample and known constraints. Develop page and visual decisions in the existing spec; do not force three new options or repeated approval. |
+| Correct one title in a supplied deck, or review without rewriting. | Use the bounded edit or review route. Reuse the framing; no unsolicited narrative rebuild or visual exploration. |
+| Rendering is unavailable. | Continue independent source checks and disclose the incomplete visual review. Source checks cannot establish a real sample or visually accepted final deck. |
+| A rendered diagram looks clean but suggests a different causal claim from the intended message. | Communication review fails despite visual neatness. Correct the owning claim/spec/source, preserve supported facts and recheck affected output; do not invent audience acceptance. |
+
+Package check, all 29 relative Markdown links/anchors, `git diff --check`, and all 6 existing packaging tests passed. The 54-line entry remains within the existing short-entry limit. The changed prose was reviewed for scope, original authorship and private information; no third-party text, company records or project-specific material was added. The separately supplied Skill Creator validator remains unavailable without PyYAML, so its success is not claimed and no dependency was installed. No broader project/runtime suite was needed for this text and version change.
+
+## v0.1.1 baseline record
 
 The v0.1.0 baseline checks below were repeated after adding audience, notes, evidence, template and auxiliary-design routing details. These additions close gaps found in a method coverage review. No private sources or feedback are bundled.
 

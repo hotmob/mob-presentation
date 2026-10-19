@@ -7,19 +7,18 @@ Make presentations communicate clearly, preserve what must stay editable, and in
 Mob Presentation is a small, host-independent skill for narrative, template inheritance, tool choice, visual revision and delivery review. It contains no slide generator, company facts, brand assets or required paid service. It uses an available authoring tool through that tool's actual instructions.
 
 ```text
-Request + authorized source + constraints
-  ├─ Review / local correction → preserve scope and existing source
-  ├─ New narrative / rebuild   → audience, evidence, page plan
-  └─ Template / visual work    → inspect reference, test needed choice
-                       ↓
-             One available authoring owner
-                       ↓
-       Render → compare → revise → inspect again
-                       ↓
-     Separate content, visual and engineering checks
-                       ↓
-             Requested artifact and limits
+New deck / narrative rebuild
+Audience and value → Core claim → Page points → Real visual sample
+          └──── One working spec develops with these choices ────┘
+                              ↓
+               Author → Render → Communication review
+                              ↓
+                 Revise affected work → Deliver
+
+Review / local correction → preserve scope and reuse valid decisions
 ```
+
+The [skill entry](SKILL.md#core-production-flow) owns this flow. Content, truthfulness, visual and engineering checks remain distinct; a successful export does not establish audience understanding.
 
 ## Use it
 
@@ -31,12 +30,12 @@ Request + authorized source + constraints
 
 The current request takes precedence over optional method defaults. A local edit does not start a whole-deck redesign. An image concept is not product or deployment evidence. A successful export is not proof of visual quality.
 
-## Install v0.1.1
+## Install v0.1.2
 
 Use the fixed release and record its commit. Python 3.9+ is needed only for the standard-library package helper.
 
 ```sh
-git clone --branch v0.1.1 --depth 1 https://github.com/hotmob/mob-presentation.git mob-presentation-source
+git clone --branch v0.1.2 --depth 1 https://github.com/hotmob/mob-presentation.git mob-presentation-source
 cd mob-presentation-source
 git rev-parse HEAD
 python3 scripts/package.py install --skills-dir /path/to/test-project/.agents/skills

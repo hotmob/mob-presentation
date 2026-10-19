@@ -17,6 +17,12 @@ Use ordinary language or the caller's existing records. Do not require a new dat
 
 Missing optional inputs do not block useful work. Missing facts are not permission to invent them. If the current artifact cannot be located, inspect supplied material and report the exact missing source before dependent editing.
 
+## Working specification
+
+For creation or narrative rebuild, develop the caller's existing brief or spec progressively: start with the working framing and core claim, add page points and order, then refine template and visual decisions from the real sample. Carry known output, brand and content constraints throughout; do not freeze a layout merely to complete an early spec. A short working note is enough when no record exists; do not require a new schema, file or acceptance gate. A local correction reuses the current spec and updates only affected decisions.
+
+That record is the source of truth for this deck's decisions. Refer to facts, brands, assets and prior decisions at their existing authorized owners instead of copying them into a competing source. Update the spec as visual choices or review findings change the intended artifact. It guides production; it is not an audience-facing slide or a reason to display internal evidence checklists.
+
 ## Outputs
 
 For a review: page-specific findings, evidence and recommended changes, separated from factual gaps.
