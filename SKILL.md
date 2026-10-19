@@ -7,11 +7,17 @@ description: Plan, review, create or revise presentations by choosing an availab
 
 Make the presentation help its audience understand or decide. Choose the smallest workflow that can meet the request. This skill supplies decisions and quality criteria; the selected host tool supplies execution.
 
-## Establish the working boundary
+## Start with the audience and value
 
-Read the request and the exact current artifact, when one is supplied. Identify audience, intended use, requested change, output destination, source facts, editable elements, template constraints and material limits. Reuse answers already given; ask only about gaps that would change the result. See [input and output contract](references/contract.md) when an application or project supplies these inputs.
+First help the creator state who the presentation is for, what value it offers that audience and what they should do after viewing it. Read the request and supplied material, infer and state a concise working interpretation, and reuse existing answers. Ask briefly only about a material unknown; do not turn this into a form or repeated confirmation. For a bounded edit, reuse the existing framing unless the change affects it. See [content](references/content.md) for the framing method.
+
+Identify the requested change, intended use, output destination, source facts, editable elements, template constraints and material limits. Read the exact current artifact when supplied. See the [input and output contract](references/contract.md) when an application or project supplies these inputs.
 
 Use caller-provided facts, brand assets and decisions through their authorized references. The skill contains no company knowledge or default brand. A previous slide proves what was written, not whether its claim is true.
+
+## Core production flow
+
+For creation or narrative rebuild: audience/value/action → [deck's core claim → page points](references/content.md#core-claim-and-page-points) → [real visual sample](references/quality.md#work-on-a-visible-problem) → authoring → [rendered communication review](references/quality.md#inspect-compare-revise). Develop one [working spec](references/contract.md#working-specification) alongside these decisions; do not freeze layouts before exploring actual content. Reuse valid decisions and samples, and update affected outputs when the argument or design changes. Retain separate content, truthfulness, visual and engineering checks.
 
 ## Route the work
 
@@ -19,7 +25,7 @@ Use caller-provided facts, brand assets and decisions through their authorized r
 | --- | --- | --- |
 | Explain or review a deck | [Content](references/content.md), relevant parts of [quality](references/quality.md) | Findings with page evidence; no unsolicited rewrite |
 | Correct a word, number or object | [Tools](references/tools.md), affected checks in quality | Bounded edit through the original capable path; preserve unrelated objects |
-| Rebuild narrative or create a new deck | Content, then tools and quality | Audience argument, page plan, editable artifact and inspected renders |
+| Rebuild narrative or create a new deck | Core production flow above | Working framing and spec, editable artifact and communication review of actual renders |
 | Follow an existing template | Template route in tools | Inherited masters/layouts and verified content mapping |
 | Explore visuals or improve design | Visual work in quality, then tools | A focused hypothesis and an actual representative result |
 | Export or deliver | Tools and quality | Exact final file, evidence of checks and remaining use limitations |

@@ -2,15 +2,19 @@
 
 Use this for new content, substantive review, or a changed conclusion. A typo fix does not need a new narrative exercise.
 
-Start with the audience's question and the evidence available. Decide what each page contributes: a subject, explanation, comparison, finding or next action. Choose page order by dependencies in understanding, not a fixed sales story. Expert audiences may start with a mechanism or measurement; unfamiliar audiences may need a concrete situation first.
-
 Audience roles change the questions, not the facts. Investors may need adoption, economics and uncertainty; partners may need complementary roles and commitment boundaries; product users may need a task, behavior and adoption path. These are prompts to inspect the brief, not mandatory section lists.
 
 ## Audience, claims and evidence
 
-Before making slides, establish the audience, communication objective and next action sought from the reader, reusing answers already in the brief. Separate the presenter's objective from the audience's own task, benefit and constraints. Establish what the audience already understands, which judgment needs to change and what evidence could support it. Unknown motivations remain hypotheses; a job title does not establish them. Familiarity with a technology and business or domain expertise are independent. Communication stage and preferred evidence can affect explanation without dictating a fixed opening or page order.
+Make the entry's working interpretation concrete, for example: "For [audience], this helps [their task or benefit]; after viewing, they should [next action]." Derive it from the request, existing brief and source material. Distinguish an inferred framing from an explicit user decision. If an unknown would materially change the argument, ask the smallest useful question while continuing independent work. A plausible working interpretation does not need a new approval step.
+
+Separate the presenter's objective from the audience's own task, benefit and constraints. Establish what the audience already understands, which judgment needs to change and what evidence could support it. Unknown motivations remain hypotheses; a job title does not establish them. Familiarity with a technology and business or domain expertise are independent. Communication stage and preferred evidence can affect explanation without dictating a fixed opening or page order.
 
 For a first introduction to financial investors, prioritize the opportunity, how value could be created, how the approach works and why it merits their involvement. Internal R&D milestones, lists of what is being validated and verification checklists are not selling points. Use relevant evidence to support the value argument; detailed validation may belong in a requested technical review or due diligence discussion. Include a financing amount and use of funds when the communication objective calls for that ask; an introduction seeking interest may omit them. The investor label alone requires neither their inclusion nor their exclusion.
+
+## Core claim and page points
+
+Express the deck's core claim in terms of that audience's value and intended next action. Then give each page a clear contribution and main point: a subject, explanation, comparison, finding or next action that advances the argument. Choose page order by dependencies in understanding, not a fixed sales story. Expert audiences may start with a mechanism or measurement; unfamiliar audiences may need a concrete situation first. Add these decisions to the caller's evolving [working spec](contract.md#working-specification); the slide count and page pattern follow the argument and actual constraints.
 
 For unfamiliar terminology, explain the relevant function before naming it; experts may need the precise term immediately. Do not explain one unfamiliar term with another. Examples and analogies must identify the relationship they illustrate and where the analogy stops working. They help comprehension but do not establish new facts. Keep the main argument intelligible without an appendix while retaining essential depth and qualifications.
 

@@ -4,7 +4,9 @@
 
 Identify the reading failure and its consequence before selecting a visual treatment. Match layout to the relationship: comparison, sequence, mechanism, evidence or scene. Use real references to calibrate composition and density, with their provenance and applicable constraints.
 
-When direction is uncertain, test the important unresolved choice on representative content. A difficult content page often reveals more than a cover. Compare a small number only when the alternatives help make a decision; there is no compulsory number of directions, images or full decks. Fixed templates and local edits retain the current design unless the request changes it.
+For creation or narrative rebuild, render a real visual sample using representative page content in the proposed template or visual system before extending it across the deck. A page with actual relationships often reveals more than a cover; a mood board or style name is not that sample. The first production page can serve this purpose, and an existing valid sample can be reused. This adds no separate approval stop or required sample file.
+
+When direction is uncertain, compare alternatives on the same representative content only when they help resolve a concrete choice. There is no compulsory number of directions, images or full decks. Fixed templates and local edits retain the current design unless the request changes it; a local correction needs only affected renders, not a new visual exploration.
 
 Specify usable page dimensions, typography, spacing, color meaning and asset handling in the caller's design record. Choose actual sizes for the template and viewing environment; do not prescribe one universal point-size threshold. Confirm installed fonts and inspect replacement behavior where possible.
 
@@ -17,7 +19,7 @@ Vary composition when the information relationship requires it; do not force eve
 | Judgment | Evidence | A pass does not establish |
 | --- | --- | --- |
 | Content | Sources, wording, units and preserved qualifications | Visual clarity |
-| Communication | Actual slide and adjacent flow; whether the claim and visual relationship agree | Target audience understanding unless tested with that audience |
+| Communication | Actual slides and flow against the spec's core claim, audience value and intended next action | Target audience understanding unless tested with that audience |
 | Visual quality | Full-size renders, reference/current-best comparison, hierarchy, composition, legibility and consistency | Correct package structure or source truth |
 | Engineering | Package/open checks, relationships, object types, text/notes readback, required checks for the change | Good design or acceptance |
 | Delivery | Exact artifact/version, requested format and destination, remaining limits | Approval beyond the decision actually given |
@@ -29,10 +31,11 @@ When actual audience feedback exists, retain the artifact version, audience/cont
 ## Inspect, compare, revise
 
 1. Render the exact candidate through the selected owner's supported path. View the actual pixels; generated filenames alone are not inspection evidence.
-2. Check the message at normal reading scale, then details: clipping, overlap, unintended line breaks, missing assets, contrast, chart labels, font substitution and misleading imagery.
-3. Compare with the requested reference and retained best version under equivalent conditions. Include neighboring slides if the change affects the sequence. Record why the candidate improves the stated goal, or why it does not.
-4. If it fails, keep the best version. Revise the owning source or composition. A failed hypothesis is a next test, not a proven general rule. Do not promote a weaker candidate simply because it is newer or technically valid.
-5. Rerun the affected rendering and checks after changes. Stop broadening tests once the relevant concern is resolved; honor mandatory checks supplied by the caller.
+2. Review at normal reading scale from the intended audience's perspective: what would they understand and remember, why would it matter to them, and is the next action clear? Check each page's point, the steps between pages and whether graphics explain the intended relationship. Use the spec and intended speaking/reading situation, not an extra explanation of the author's internal process. Record page-specific misunderstandings and revise the message where needed; an agent's answer remains a simulated review, not observed audience comprehension.
+3. Inspect details: clipping, overlap, unintended line breaks, missing assets, contrast, chart labels, font substitution and misleading imagery. Retain separate source/truthfulness and technical checks.
+4. Compare with the requested reference and retained best version under equivalent conditions. Include neighboring slides if the change affects the sequence. Record why the candidate improves the stated goal, or why it does not.
+5. If it fails, keep the best version. Revise the owning source or composition. A failed hypothesis is a next test, not a proven general rule. Do not promote a weaker candidate simply because it is newer or technically valid.
+6. Rerun the affected rendering and checks after changes. Stop broadening tests once the relevant concern is resolved; honor mandatory checks supplied by the caller.
 
 Full creation/rebuild requires all page renders and inspection. For a bounded change, inspect affected pages and dependencies, preserve unrelated content where required, and state the narrower coverage. PDF or browser rendering does not prove a deck was opened in Microsoft PowerPoint. File checks cannot establish font behavior on another machine.
 
