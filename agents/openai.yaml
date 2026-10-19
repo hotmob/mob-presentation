@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mob Presentation"
+  short_description: "Choose tools, preserve sources, and inspect real slides"
+  default_prompt: "Use $mob-presentation to plan, review, or improve this presentation within the requested scope."
