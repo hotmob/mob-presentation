@@ -31,12 +31,12 @@ Request + authorized source + constraints
 
 The current request takes precedence over optional method defaults. A local edit does not start a whole-deck redesign. An image concept is not product or deployment evidence. A successful export is not proof of visual quality.
 
-## Install v0.1.0
+## Install v0.1.1
 
 Use the fixed release and record its commit. Python 3.9+ is needed only for the standard-library package helper.
 
 ```sh
-git clone --branch v0.1.0 --depth 1 https://github.com/hotmob/mob-presentation.git mob-presentation-source
+git clone --branch v0.1.1 --depth 1 https://github.com/hotmob/mob-presentation.git mob-presentation-source
 cd mob-presentation-source
 git rev-parse HEAD
 python3 scripts/package.py install --skills-dir /path/to/test-project/.agents/skills

@@ -12,14 +12,19 @@ Inspect the host's available skills, APIs and installed runtime. Read the select
 | Complex existing OOXML needing precise preservation | Available native editor or a reviewed, bounded OOXML operation | Exact package, relationship-aware change → valid package and fresh renders | Preserve source and report unsupported objects; do not unzip/change/repack blindly |
 | Browser presentation, CSS layout exploration, SVG working source | Authorized HTML/SVG workflow; HTML output must satisfy the requested format | Stable content and styles → browser artifact or a conversion candidate | Browser/SVG preview is not PPTX rendering; require a supported conversion and editability check before claiming editable PPTX |
 | Custom illustration or authorized image edit | Actual image generation/editing tool | Purpose, crop, reference, privacy limits → visual asset with provenance | Reuse authorized assets or a simpler composition; do not label a generated concept as observed evidence |
+| A diagnosed layout, typography or visual-clarity problem | Available design critique/refinement skill, such as Taste or Impeccable when explicitly selected and actually installed | Actual page renders, brief, issue and protected elements → concrete diagnosis or bounded changes by the authoring owner | Read the installed entry and only the relevant command reference; if a launcher fails, report that fact and use a documented fallback, without claiming execution |
 | Data calculation or source extraction | Spreadsheet/PDF tools, when those tasks are needed | Sources → checked data/extracted evidence | Keep unknowns explicit; do not add fabricated statistics to fill a chart |
 | Inspect the final result | Available target application, export renderer or authoring renderer | Exact final artifact → page pixels and findings | Report which checks remain unavailable; do not claim target-app testing from XML or HTML alone |
 
 ## Existing templates
 
+A request to browse references does not start deck generation. Use the selected owner's actual catalogue/index and inspect the chosen resource; do not invent paths, fixed catalogue sizes or unseen previews. Distinguish brand identity rules, a visual style, a layout prototype and a complete example deck. An index entry is not evidence that its visual content has been viewed. A newly designed illustration from identity rules must be labelled as such.
+
 Determine whether the supplied deck is a design template, a content source or both. Inspect the actual slides, master/layout relationships, theme fonts, placeholders, page size, notes and protected assets that the requested operation touches. Choose layouts for the real content; preserve logos and proportions from authorized originals. A brand name, style preset, screenshot and native master are different inputs.
 
 A style inspired by a company is not that company's official template. The reviewed PPT Master Huawei preset declares approximate values and no official manual source; do not relabel it as an official master. Brand constraints remain caller inputs, not rules stored here.
+
+Creating a reusable template has a different output contract from filling a deck. Inspect the promised template kind; if a native PowerPoint master is required, verify its master/layout/placeholder behavior. Editable text boxes in a sample deck alone do not establish that capability.
 
 ## Native editability and fidelity
 
@@ -32,3 +37,5 @@ OOXML editing must preserve relevant relationships, slide IDs, layouts, notes an
 The research compared a local v5.0.0 entry with its exact upstream commit; current upstream is newer. The older native fill/enhance routes and the newer native edit route differ. Do not combine instructions from them. Use the installed version's own entry, integrity checks, route selection and dependencies; never bypass a failing integrity gate or forge a confirmation. Reuse authorization already supplied for the same decision, while respecting actual host permissions.
 
 External research, image services and paid generation are separate capabilities. Confirm the tool and authorization exist before routing private inputs to them. Do not execute unfamiliar repository code or install dependencies merely to make a recommended option appear available.
+
+Auxiliary design skills diagnose an actual page problem; generic style prohibitions are not findings about a slide that has not been inspected. Preserve the chosen authoring owner, accepted content and current brief. For a static deck, adapt relevant spacing, type, grouping and color guidance without starting a website or claiming DOM, responsive, hover, animation or browser-performance checks. A skill command written in a prompt is not necessarily a shell command. Follow the installed owner's initialization and fallback rules, and distinguish reading its instructions from performing edits.

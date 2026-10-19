@@ -1,4 +1,8 @@
-# v0.1.0 validation
+# v0.1.1 validation
+
+The v0.1.0 baseline checks below were repeated after adding audience, notes, evidence, template and auxiliary-design routing details. These additions close gaps found in a method coverage review. No private sources or feedback are bundled.
+
+# Baseline scope
 
 This release is a lightweight instruction and routing package. It has no slide renderer and does not claim to improve presentation quality by a measured amount.
 

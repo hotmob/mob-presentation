@@ -10,7 +10,7 @@ import subprocess
 import tempfile
 import zipfile
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 NAME = 'mob-presentation'
 SOURCE = 'https://github.com/hotmob/mob-presentation'
 ROOT = Path(__file__).resolve().parents[1]
